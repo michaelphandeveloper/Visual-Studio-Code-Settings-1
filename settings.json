@@ -1,0 +1,31 @@
+{
+  "workbench.colorTheme": "Dracula Refined",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontWeight": "400",
+  "editor.fontSize": 16,
+  "editor.formatOnSave": true,
+  "editor.fontLigatures": true,
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.tabSize": 2,
+  "editor.letterSpacing": 1,
+  "editor.lineHeight": 20,
+  "window.zoomLevel": 1,
+  "security.workspace.trust.untrustedFiles": "open",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.editor.wrapTabs": true,
+  "indentRainbow.colors": [
+    "rgba(247, 37, 133, 0.2)",
+    "rgba(181, 23, 158, 0.2)",
+    "rgba(114, 9, 183, 0.2)",
+    "rgba(86, 11, 173, 0.2)",
+    "rgba(72, 12, 168, 0.2)",
+    "rgba(58, 12, 163, 0.2)",
+    "rgba(63, 55, 201, 0.2)",
+    "rgba(67, 97, 238, 0.2)",
+    "rgba(72, 149, 239, 0.2)",
+    "rgba(76, 201, 240, 0.2)"
+  ],
+  "color-highlight.markerType": "background",
+  "ponicode.token": "c9210d02-5d41-4b94-813f-ccd1a9644497"
+}
